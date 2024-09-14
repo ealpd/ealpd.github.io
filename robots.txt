@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ealpd.github.io/kMZ/sitemap.kMZ.gz
